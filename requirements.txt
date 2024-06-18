@@ -1,0 +1,13 @@
+streamlit
+ultralytics
+roboflow
+pandas
+numpy
+os
+matplotlib
+IPython
+matplotlib
+cv2
+torch
+collections
+PIL

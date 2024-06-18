@@ -1,6 +1,7 @@
 #
 
 import streamlit as st
+import ultralytics
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
@@ -8,11 +9,6 @@ from ultralytics import YOLO
 import cv2
 from collections import Counter
 from streamlit_player import st_player
-from PIL import Image
-import cv2
-import numpy as np
-from collections import Counter
-from ultralytics import YOLO
 import time
 from IPython.display import display, clear_output
 from PIL import Image

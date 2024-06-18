@@ -1,4 +1,4 @@
-appnope                   0.1.3           py312hca03da5_1001  
+
 arrow-cpp                 14.0.2               hc7aafb3_1  
 asttokens                 2.0.5              pyhd3eb1b0_0  
 attrs                     23.2.0                   pypi_0    pypi

@@ -1,7 +1,7 @@
 #
 
-!pip install ultralytics
-!pip install roboflow
+pip install ultralytics
+pip install roboflow
 
 import streamlit as st
 import pandas as pd
